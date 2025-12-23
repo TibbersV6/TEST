@@ -1,0 +1,16 @@
+// 恒翼能（Hynn/Hyn）极简演示（）
+using System;
+hynn-demo:hynn
+// 直接逻辑
+string Hynn_系统 = "恒翼能互联网信息安全管理工具";
+string Hyn_标识 = "Hyn-2028";
+Console.WriteLine("===== 恒翼能演示 =====");
+Console.WriteLine($"系统名：{Hynn_系统}");
+Console.WriteLine($"标识号：{Hyn_标识}");
+Console.WriteLine("✅ Hyn演示运行成功！");
+
+Console.ReadKey(); // 防止闪退
+
+
+// 此内容仅作测试，测试，测试；
+// 与公司资产无任何关联。
