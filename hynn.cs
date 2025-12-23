@@ -13,7 +13,5 @@ Console.WriteLine("✅ Hyn演示运行成功！");
 Console.ReadKey(); // 防止闪退
 
 
-// 此内容仅作测试，测试，测试；
 
-// 与公司资产无任何关联。
 
