@@ -1,6 +1,6 @@
 // 恒翼能（Hynn/Hyn）极简演示（）
 using System;
-hynn-demo:hynn
+hynn-demo:hynn-101
 // 直接逻辑
 string Hynn_系统 = "恒翼能互联网信息安全管理工具";
 string Hyn_标识 = "Hyn-2028";
